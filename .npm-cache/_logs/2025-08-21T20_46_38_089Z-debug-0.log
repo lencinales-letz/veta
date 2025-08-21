@@ -5,14 +5,14 @@
 4 silly config load:file:/Users/luisencinales/Documents/VETA Prototype/veta-prototype/.npmrc
 5 silly config load:file:/Users/luisencinales/.npmrc
 6 silly config load:file:/usr/local/etc/npmrc
-7 verbose title npm run build
-8 verbose argv "run" "build"
-9 verbose logfile logs-max:10 dir:/Users/luisencinales/Documents/VETA Prototype/veta-prototype/.npm-cache/_logs/2025-08-14T12_41_15_785Z-
-10 verbose logfile /Users/luisencinales/Documents/VETA Prototype/veta-prototype/.npm-cache/_logs/2025-08-14T12_41_15_785Z-debug-0.log
-11 silly logfile done cleaning log files
+7 verbose title npm build
+8 verbose argv "build"
+9 verbose logfile logs-max:10 dir:/Users/luisencinales/Documents/VETA Prototype/veta-prototype/.npm-cache/_logs/2025-08-21T20_46_38_089Z-
+10 verbose logfile /Users/luisencinales/Documents/VETA Prototype/veta-prototype/.npm-cache/_logs/2025-08-21T20_46_38_089Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
 12 verbose cwd /Users/luisencinales/Documents/VETA Prototype/veta-prototype
 13 verbose os Darwin 24.5.0
 14 verbose node v22.14.0
 15 verbose npm  v10.9.2
-16 verbose exit 0
-17 info ok
+16 verbose exit 1
+17 verbose code 1

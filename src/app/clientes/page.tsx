@@ -176,7 +176,7 @@ export default function ClientesPage() {
               <Filter className="w-4 h-4 text-gray-500" />
               <select
                 value={filterStatus}
-                onChange={(e) => setFilterStatus(e.target.value)}
+                onChange={(e) => setFilterStatus(e.target.value as "all" | "online" | "degraded" | "offline")}
                 className="border border-gray-300 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
               >
                 <option value="all">Todos los estados</option>
